@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Java Springboot**
 
-- 👨‍💻 Official Mail Id [gowtham@technologypeak.co.in](gowtham@technologypeak.co.in)
-
-- 🖥️ Official Website [https://www.technologypeak.co.in/](https://www.technologypeak.co.in/)
-
 - 💬 Ask me about **React,React native,Python FastAPI**
 
 - 📫 How to reach me **gowthamkannan207@gmail.com**
