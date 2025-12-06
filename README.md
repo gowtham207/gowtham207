@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Springboot**
 
-- 💬 Ask me about **React,React native,Python FastAPI**
+- 💬 Ask me about **React,React native,Python FastAPI/Flask,PSQL**
 
 - 📫 How to reach me **gowthamkannan207@gmail.com**
 
