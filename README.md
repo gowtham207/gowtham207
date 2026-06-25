@@ -11,7 +11,7 @@
 
 - 👨‍💻 Website https://gowtham207.github.io/portfilio/
 
-- 📄 Know about my experiences https://gowtham207.github.io/portfilio/gowtham-software-engineer.pdf
+- 📄 Know about my experiences https://gowtham207.github.io/portfolio/gowtham-software-engineer.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
