@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gowthamkannan207@gmail.com**
 
-- 👨‍💻 Website https://gowtham207.github.io/portfilio/
+- 👨‍💻 Website https://gowtham207.github.io/portfolio/
 
 - 📄 Know about my experiences https://gowtham207.github.io/portfolio/gowtham-software-engineer.pdf
 
