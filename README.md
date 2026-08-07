@@ -1,24 +1,286 @@
-<h1 align="center">Hi 👋, I'm Gowtham Kannan</h1>
-<h3 align="center">Full-Stack Developer skilled in Python, JavaScript, React, React Native, Java, and Go. Experienced in building scalable web/mobile apps with PostgreSQL and AWS.</h3>
+# 👋 Hi, I'm Gowtham Kannan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham207&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham207" /> </p>
+### 🚀 Full-Stack Developer | Python | FastAPI | React | React Native | Java | AWS
 
-- 🌱 I’m currently learning **Java Springboot**
+I’m a **Full-Stack Developer** passionate about building scalable, reliable, and user-focused applications.
 
-- 💬 Ask me about **React,React native,Python FastAPI/Flask,PSQL**
+I primarily work with **Python, FastAPI, React, React Native, PostgreSQL, Java, and AWS**, with experience developing REST APIs, backend services, web applications, mobile applications, and database-driven systems.
 
-- 📫 How to reach me **gowthamkannan207@gmail.com**
+I enjoy solving real-world engineering problems, learning new technologies, and building clean, maintainable, and production-ready applications.
 
-- 👨‍💻 Website https://gowtham207.github.io/portfolio/
+---
 
-- 📄 Know about my experiences https://gowtham207.github.io/portfolio/gowtham-software-engineer.pdf
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+* 🔭 Currently building **full-stack web and mobile applications**
+* 🌱 Currently learning **AI/ML & Computer Vision**
+* 🌱 Expanding my backend expertise with **Java Spring Boot**
+* ⚡ Interested in **scalable APIs, microservices, cloud architecture & system design**
+* 💬 Ask me about **Python, FastAPI, React, React Native, PostgreSQL & REST APIs**
+* ☁️ Experience with **AWS, Docker and cloud deployments**
+* 📱 Experienced in building **Web & Mobile applications**
+* 🗄️ Experienced with **PostgreSQL, MySQL and SQLAlchemy**
+* 📫 Reach me at **[gowthamkannan207@gmail.com](mailto:gowthamkannan207@gmail.com)**
+* 🌐 Portfolio: **[gowtham207.github.io/portfolio](https://gowtham207.github.io/portfolio/)**
+* 📄 Resume: **[View My Resume](https://gowtham207.github.io/portfolio/gowtham-software-engineer.pdf)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gowtham-kannan-80a23b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gowtham-kannan-80a23b206" height="30" width="40" /></a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Languages:**
+`Python` · `Java` · `JavaScript` · `TypeScript` · `Go`
 
+---
 
+### 🚀 Backend Development
+
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="45" alt="Node.js"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  </a>
+</p>
+
+**Backend:**
+`FastAPI` · `Flask` · `Spring Boot` · `Node.js` · `REST APIs` · `JWT` · `OAuth` · `SQLAlchemy`
+
+---
+
+### ⚛️ Frontend & Mobile Development
+
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="45" alt="React"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
+  </a>
+</p>
+
+**Frontend & Mobile:**
+`React` · `React Native` · `Redux` · `TypeScript` · `JavaScript` · `Flutter`
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="45" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45" alt="MySQL"/>
+  </a>
+</p>
+
+**Databases:**
+`PostgreSQL` · `MySQL` · `SQL` · `Database Design` · `SQLAlchemy`
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="45" alt="Docker"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+  </a>
+</p>
+
+**Cloud & DevOps:**
+`AWS` · `Docker` · `Git` · `GitHub` · `CI/CD` · `Linux` · `Bash`
+
+---
+
+## 🤖 Currently Learning
+
+I’m currently expanding my knowledge in **Artificial Intelligence, Machine Learning, and Computer Vision**.
+
+### Areas I'm Exploring
+
+* 🧠 Machine Learning fundamentals
+* 👁️ Computer Vision
+* 🐍 Python for Machine Learning
+* 📊 Data preprocessing & analysis
+* 🎯 Object Detection
+* 📷 OpenCV
+* 🧪 Model training & evaluation
+* 🚀 Integrating ML models into applications
+
+> My primary professional focus remains **Full-Stack Development**, while AI/ML and Computer Vision are areas I am actively exploring and developing my skills in.
+
+---
+
+## 🔥 What I Build
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                 FULL-STACK DEVELOPMENT                  │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  🐍 Python / FastAPI                                    │
+│     └── REST APIs • Authentication • Microservices      │
+│                                                         │
+│  ☕ Java / Spring Boot                                  │
+│     └── Backend Services • Enterprise Applications      │
+│                                                         │
+│  ⚛️ React / React Native                                │
+│     └── Web Apps • Mobile Apps • State Management       │
+│                                                         │
+│  🗄️ PostgreSQL / MySQL                                 │
+│     └── Database Design • SQL • Performance             │
+│                                                         │
+│  ☁️ AWS / Docker                                        │
+│     └── Deployment • Containers • Cloud Architecture    │
+│                                                         │
+│  🔐 API & Security                                      │
+│     └── JWT • OAuth • Authentication • Authorization    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💡 Core Expertise
+
+### 🐍 Backend Engineering
+
+* Python
+* FastAPI
+* Flask
+* Java
+* Spring Boot
+* Node.js
+* REST API development
+* JWT Authentication
+* OAuth
+* SQLAlchemy
+* Async programming
+* Microservice architecture
+
+### ⚛️ Frontend & Mobile
+
+* React.js
+* React Native
+* Redux
+* TypeScript
+* JavaScript
+* Flutter
+* Responsive UI development
+* State management
+* API integration
+
+### 🗄️ Database
+
+* PostgreSQL
+* MySQL
+* SQL
+* Database design
+* Query optimization
+* SQLAlchemy ORM
+
+### ☁️ Cloud & DevOps
+
+* AWS
+* Docker
+* Git
+* GitHub
+* CI/CD
+* Linux
+* Cloud deployment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowtham207&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham207&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham207&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gowtham207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gowtham-kannan-80a23b206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gowtham%20Kannan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:gowthamkannan207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+
+  <a href="https://gowtham207.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gowtham207&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+⭐ If you find my projects useful, feel free to **star** the repositories and connect with me!
