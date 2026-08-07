@@ -164,9 +164,6 @@ I’m currently expanding my knowledge in **Artificial Intelligence, Machine Lea
 │  🐍 Python / FastAPI                                    │
 │     └── REST APIs • Authentication • Microservices      │
 │                                                         │
-│  ☕ Java / Spring Boot                                  │
-│     └── Backend Services • Enterprise Applications      │
-│                                                         │
 │  ⚛️ React / React Native                                │
 │     └── Web Apps • Mobile Apps • State Management       │
 │                                                         │
