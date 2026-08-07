@@ -236,10 +236,6 @@ I’m currently expanding my knowledge in **Artificial Intelligence, Machine Lea
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowtham207&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham207&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham207&theme=tokyonight&hide_border=true" />
@@ -247,13 +243,6 @@ I’m currently expanding my knowledge in **Artificial Intelligence, Machine Lea
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowtham207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
